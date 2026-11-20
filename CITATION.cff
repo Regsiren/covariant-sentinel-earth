@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or its results, please cite it as below."
+type: software
+title: "Scale-Invariant Covariant Kinematic Auditing for Environmental Tipping Points: A 30 Site-Year Flash Drought Benchmark and Falsification of Direct Solar–Surface Coupling"
+authors:
+  - family-names: Olaiya
+    given-names: Remi
+    orcid: "https://orcid.org/0009-0002-6809-5061"
+    affiliation: "Thohat Ventures Ltd"
+doi: "10.5281/zenodo.24404720"
+repository-code: "https://github.com/Regsiren/covariant-sentinel-earth"
+url: "https://doi.org/10.5281/zenodo.24404720"
+date-released: "2026-11-20"
+license: "Other"
+keywords:
+  - flash drought
+  - covariant kinematics
+  - early warning
+  - soil moisture
+  - space weather
+  - environmental tipping points
