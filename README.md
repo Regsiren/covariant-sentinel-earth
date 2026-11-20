@@ -123,7 +123,7 @@ GitHub also exposes a **Cite this repository** button via [`CITATION.cff`](CITAT
 
 - [10.5281/zenodo.23677470](https://doi.org/10.5281/zenodo.23677470)
 - [10.5281/zenodo.20549045](https://doi.org/10.5281/zenodo.20549045)
-- [10.5281/zenodo.20548469](https://doi.org/10.5281/zenodo.20548469)
+- [10.5281/zenodo.20548468](https://doi.org/10.5281/zenodo.20548468)
 
 ## Intellectual Property & Patent Notice
 
